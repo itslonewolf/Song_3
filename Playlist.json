@@ -1,0 +1,458 @@
+{
+    "Songs": [
+        {
+            "Title": "Bombs in the Ville Hit the Gas",
+            "Artist": "J. Cole",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://71514175557267",
+            "Speed": 0.43,
+            "Start": 195
+        },
+        {
+            "Title": "Umbrella",
+            "Artist": "Rihanna",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://137430960014681",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Crazy In Love ft. JAY Z",
+            "Artist": "Beyoncé",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://91052158727707",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Pop Dat Thang",
+            "Artist": "DaBaby",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://79649661136527",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "In Da Club",
+            "Artist": "50 Cent",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://100313051718921",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Without Me",
+            "Artist": "Eminem",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://119915621616624",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Life Is Good",
+            "Artist": "Future",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://104814501230552",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Hotline Bling",
+            "Artist": "Drake",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://127096481247038",
+            "Speed": 0.43,
+            "Start": 195
+        },
+        {
+            "Title": "Dirty Game",
+            "Artist": "RWMNCS",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://138280514165144",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Return Of The Tres",
+            "Artist": "Delinquent habits",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://101075851747552",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Not Afraid",
+            "Artist": "Eminem",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://96386846999441",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Gangsta's Paradise",
+            "Artist": "Coolio",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://128038243392748",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Watch Me",
+            "Artist": "Silentó",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://97496073328472",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Thrift Shop ft. Wanz",
+            "Artist": "Macklemore & Ryan Lewis",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://80748944701268",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Unforgettable ft. Swae Lee",
+            "Artist": "French Montana",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://122304261992486",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Humble",
+            "Artist": "Kendrick Lamar",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://94862957564536",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Mi Gente",
+            "Artist": "J Balvin, Willy William",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://106999259244546",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Blueberry Faygo",
+            "Artist": "Lil Mosey",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://94836720090667",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Light It Up ft. Tyga & Chris Brown",
+            "Artist": "Marshmello",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://97145543022980",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Lemon",
+            "Artist": "N.E.R.D & Rihanna",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://100719180632654",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Loco Contigo",
+            "Artist": "DJ Snake, J Balvin, Tyga",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://112729449518260",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Go Crazy",
+            "Artist": "Chris Brown, Young Thug",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://72409351199197",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Girls Have Fun ft. Rich The Kid, G-Eazy",
+            "Artist": "Tyga",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://72084935414154",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "The London (ft. J. Cole & Travis Scott)",
+            "Artist": "Young Thug",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://119467196416594",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "ZEZE (feat. Travis Scott & Offset)",
+            "Artist": "Kodak Black",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://106280274539260",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "I Like It",
+            "Artist": "Cardi B, Bad Bunny & J Balvin",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://130861628094010",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "What You Know Bout Love",
+            "Artist": "Pop Smoke",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://129521809882146",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Mercy ft. Big Sean, Pusha T, 2 Chainz",
+            "Artist": "Kanye West",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://79165915797744",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Dinero ft. DJ Khaled, Cardi B",
+            "Artist": "Jennifer Lopez",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://100752639876247",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Walk It Talk It ft. Drake",
+            "Artist": "Migos",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://111450966619166",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Young Wild and Free",
+            "Artist": "Wiz Khalifa",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://137046151158162",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "No Lie ft. Dua Lipa",
+            "Artist": "Sean Paul",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://71024643761232",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Rockstar ft. Roddy Ricch",
+            "Artist": "DaBaby",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://124468558386439",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Energy",
+            "Artist": "Drake",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://120005263048215",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "F**kin' Problems ft. Drake, 2 Chainz, Kendrick Lamar",
+            "Artist": "A$AP ROCKY",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://111932006629164",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Ni**as In Paris",
+            "Artist": "Kanye West",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://89106109737147",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Taste ft. Offset",
+            "Artist": "Tyga",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://75366207369249",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Still Be Friends ft. Tory Lanez, Tyga",
+            "Artist": "G-Eazy",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://85837324869545",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Nonstop",
+            "Artist": "Drake",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://77347389712990",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "RITMO",
+            "Artist": "Black Eyed Peas, J Balvin",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://119396075831181",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Bounce Back",
+            "Artist": "Big Sean",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://108112578119727",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Moves",
+            "Artist": "Big Sean",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://76111363583062",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "679",
+            "Artist": "Fetty Wap, Monty",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://130867130736551",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Pure Water",
+            "Artist": "Mustard, Migos",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://73474669534896",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "M.A.A.D. City (Feat. MC eiht)",
+            "Artist": "Kendrick Lamar",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://96193348376313",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Loyal ft. Lil Wayne,Tyga",
+            "Artist": "Chris Brown",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://138811952949435",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Bezerk Feat. A$AP Ferg & Hit-Boy",
+            "Artist": "Big Sean",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://99228588613559",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Money In The Grave ft. Rick Ross",
+            "Artist": "Drake",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://106134252213880",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Look Alive",
+            "Artist": "BlocBoy JB, Drake",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://94320555759691",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Old Town Road feat Billy Ray Cyrus",
+            "Artist": "Lil Nas X",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://123359665459054",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "I Love It feat. Adele Givens",
+            "Artist": "Kanye West & Lil Pump",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://82168539056028",
+            "Speed": 0.43,
+            "Start": 87
+        }
+    ]
+}
