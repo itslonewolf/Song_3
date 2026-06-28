@@ -453,6 +453,70 @@
             "SoundId": "rbxassetid://82168539056028",
             "Speed": 0.43,
             "Start": 87
+        },
+        {
+            "Title": "MIXTAPE 1",
+            "Artist": "Five Street Production",
+            "Genre": "MIXTAPE",
+            "ImageId": "",
+            "SoundId": "rbxassetid://77538550393649",
+            "Speed": 0.4
+        },
+        {
+            "Title": "MIXTAPE 2",
+            "Artist": "Five Street Production",
+            "Genre": "MIXTAPE",
+            "ImageId": "",
+            "SoundId": "rbxassetid://107364363757598",
+            "Speed": 0.4
+        },
+        {
+            "Title": "MIXTAPE 3",
+            "Artist": "Five Street Production",
+            "Genre": "MIXTAPE",
+            "ImageId": "",
+            "SoundId": "rbxassetid://76169222167771",
+            "Speed": 0.4
+        },
+        {
+            "Title": "MIXTAPE 4",
+            "Artist": "Five Street Production",
+            "Genre": "MIXTAPE",
+            "ImageId": "",
+            "SoundId": "rbxassetid://98698995441246",
+            "Speed": 0.4
+        },
+        {
+            "Title": "MARETTA 1",
+            "Artist": "Maretta",
+            "Genre": "MIXTAPE",
+            "ImageId": "",
+            "SoundId": "rbxassetid://140277322984009",
+            "Speed": 0.4
+        },
+        {
+            "Title": "MARETTA 2",
+            "Artist": "Maretta",
+            "Genre": "MIXTAPE",
+            "ImageId": "",
+            "SoundId": "rbxassetid://92425231877214",
+            "Speed": 0.4
+        },
+        {
+            "Title": "MARETTA 3",
+            "Artist": "Maretta",
+            "Genre": "MIXTAPE",
+            "ImageId": "",
+            "SoundId": "rbxassetid://131062790281178",
+            "Speed": 0.4
+        },
+        {
+            "Title": "MARETTA 4",
+            "Artist": "Maretta",
+            "Genre": "MIXTAPE",
+            "ImageId": "",
+            "SoundId": "rbxassetid://124974646394934",
+            "Speed": 0.4
         }
     ]
 }
