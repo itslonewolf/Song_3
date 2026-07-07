@@ -455,6 +455,456 @@
             "Start": 87
         },
         {
+            "Title": "YUKON",
+            "Artist": "Justin Bieber",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://78041697938283",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Folded",
+            "Artist": "Kehlani",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://112547655472905",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Little Things",
+            "Artist": "Ella Mai",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://116065369722525",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Dance With Me ft. Tyga",
+            "Artist": "Ciara",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://123037549387580",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Sweet Dreams",
+            "Artist": "j-hope (제이홉) feat. Miguel",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://112961196319814",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "have to.",
+            "Artist": "Brent Faiyaz",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://75038914368321",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "It Depends ft. Bryson Tiller",
+            "Artist": "Chris Brown",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://121333339666297",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Kissing Strangers",
+            "Artist": "USHER",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://74697409493360",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Let Me",
+            "Artist": "Victoria Monét",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://99711128713760",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "A Couple Minutes",
+            "Artist": "Olivia Dean",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://93848160925207",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "luther",
+            "Artist": "Kendrick Lamar, SZA",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://127138405922075",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Is It a Crime",
+            "Artist": "Mariah the Scientist, Kali Uchis",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://91598221337847",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "What You Need",
+            "Artist": "Tems",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://90087742610938",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Out The Window",
+            "Artist": "Kehlani",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://70814138618363",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Back Of The Club",
+            "Artist": "Kwn",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://115656235751491",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Need it Bad (feat. Brent Faiyaz)",
+            "Artist": "Ama, Brent Faiyaz",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://80699139004902",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "100",
+            "Artist": "Ella Mai",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://75745689501368",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Lullaby",
+            "Artist": "JayDon, Paradise",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://115978623319786",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Last Heartbreak Song (feat. Giveon)",
+            "Artist": "Ayra Starr, GIVĒON",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://85409236419857",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Angel Numbers / Ten Toes",
+            "Artist": "Chris Brown",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Water",
+            "Artist": "Tyla",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://88753463485377",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "What Do I Do",
+            "Artist": "SZA",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://91288850864612",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Burning Blue",
+            "Artist": "Mariah the Scientist",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://131934642719772",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Baptized In Fear",
+            "Artist": "The Weeknd",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://95021108546097",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Residuals",
+            "Artist": "Chris Brown",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://127586410685144",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Tiramisu",
+            "Artist": "Don Toliver",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://80659014894841",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Timeless",
+            "Artist": "TheWeeknd, Playboi Carti",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://108983188106237",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "What Did I Miss?",
+            "Artist": "Drake",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://126604582488144",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Not Like Us",
+            "Artist": "Kendrick Lamar",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://93231888486899",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "4X4",
+            "Artist": "Travis Scott",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://137101744183978",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Likes",
+            "Artist": "Matry",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://103124977766015",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "WHO I WAS",
+            "Artist": "NF, mgk",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://132064044523600",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "wgft feat. Burna Boy",
+            "Artist": "Gunna",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://117853607042301",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "E85",
+            "Artist": "Don Toliver",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://135192975011117",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "COMË N GO",
+            "Artist": "Yeat",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://90871268788504",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Now Or Never",
+            "Artist": "TKANDZ",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://79342540611104",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Mertra (WORK!)",
+            "Artist": "SMJ",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://89196356232178",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "DON'T KILL THE PARTY feat. Quavo",
+            "Artist": "Ty Dolla $ign",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://82683650991457",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "TOXIC feat. Skepta",
+            "Artist": "Playboi Carti",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://121560859568868",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "DUMBO",
+            "Artist": "Travis Scott",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://113816555035904",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Dum, Dumb, and Dumber (with Young Thug & Future)",
+            "Artist": "Lil Baby, Young Thug, Future",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://76638405557456",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "FDO",
+            "Artist": "Pooh Shiesty",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://72565074712400",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Shot Callin",
+            "Artist": "YoungBoy Never Broke Again",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://70941741929683",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Went Legit",
+            "Artist": "G Herbo",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://126223531321998",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "2010 - Mr. October",
+            "Artist": "Wyclef Jean, G Herbo",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://120266589967142",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Trunks (From \"Highest 2 Lowest\")",
+            "Artist": "A$AP Rocky",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://116660322635498",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "One Of Wun",
+            "Artist": "Gunna",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://112563308541283",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Stuff (feat. Travis Scott)",
+            "Artist": "Lil Baby, Travis Scott",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://90671136921454",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Fade Away",
+            "Artist": "JTsBeats, $iK3, Echo Shordy, JTsBeats $iK3 Echo Shordy",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://103860263362838",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "NOKIA",
+            "Artist": "Drake",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://121203212656358",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
             "Title": "MIXTAPE 1",
             "Artist": "Five Street Production",
             "Genre": "MIXTAPE",
